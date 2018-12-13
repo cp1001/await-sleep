@@ -1,6 +1,6 @@
 {
   "name": "@cp1001/await-sleep",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,9 +11,9 @@
     "url": "https://github.com/cp1001/await-sleep.git"
   },
   "keywords": [
-    'sleep',
-    'await-sleep',
-    '@cp1001/await-sleep'
+    "sleep",
+    "await-sleep",
+    "@cp1001/await-sleep"
   ],
   "author": "cp1001",
   "homepage": "https://github.com/cp1001/await-sleep.git",
