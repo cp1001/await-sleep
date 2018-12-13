@@ -1,0 +1,18 @@
+{
+  "name": "@cp1001/await-sleep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    'sleep',
+    'await-sleep',
+    '@cp1001/await-sleep'
+  ],
+  "author": "cp1001",
+  
+  "homepage": "https://github.com/sqren/await-sleep#readme",
+  "license": "ISC"
+}
